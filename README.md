@@ -2,3 +2,5 @@
 Freak(n)=Some one who is physically abnormal .It may be a person or animal or bird 
 Dork(n)=some one who looks physically ackward or not fashion
 clown(n)
+sporty dress(adj+n) =
+
