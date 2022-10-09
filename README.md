@@ -4,4 +4,6 @@ Dork(n)=some one who looks physically ackward or not fashion
 clown(n)
 sporty dress(adj+n) =
 blackboy
+GAgantic
+gazlion
 
